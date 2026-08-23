@@ -1,0 +1,242 @@
+MENGEKSTRAKSI DATA TRAINING..
+Membaca gambar : X_train (1).jpg
+Membaca gambar : X_train (10).jpg
+Membaca gambar : X_train (2).jpg
+Membaca gambar : X_train (3).jpg
+Membaca gambar : X_train (4).jpg
+Membaca gambar : X_train (5).jpg
+Membaca gambar : X_train (6).jpg
+Membaca gambar : X_train (7).jpg
+Membaca gambar : X_train (8).jpg
+Membaca gambar : X_train (9).jpg
+Membaca gambar : Y_train (1).jpg
+Membaca gambar : Y_train (10).jpg
+Membaca gambar : Y_train (2).jpg
+Membaca gambar : Y_train (3).jpg
+Membaca gambar : Y_train (4).jpg
+Membaca gambar : Y_train (5).jpg
+Membaca gambar : Y_train (6).jpg
+Membaca gambar : Y_train (7).jpg
+Membaca gambar : Y_train (8).jpg
+Membaca gambar : Y_train (9).jpg
+Jumlah Data Training : 20
+
+MENGEKSTRAKSI DATA TESTING.. 
+Membaca gambar : X_test (1).jpg
+Membaca gambar : X_test (2).jpg
+Membaca gambar : Y_test (1).jpg
+Membaca gambar : Y_test (2).jpg
+Jumlah Data Testing : 4
+
+=======================================
+MENGHITUNG JARAK..
+1. Label : X | Jarak : 43
+2. Label : X | Jarak : 39
+3. Label : X | Jarak : 46
+4. Label : X | Jarak : 71
+5. Label : X | Jarak : 49
+6. Label : X | Jarak : 35
+7. Label : X | Jarak : 64
+8. Label : X | Jarak : 39
+9. Label : X | Jarak : 55
+10. Label : X | Jarak : 47
+11. Label : Y | Jarak : 55
+12. Label : Y | Jarak : 39
+13. Label : Y | Jarak : 48
+14. Label : Y | Jarak : 54
+15. Label : Y | Jarak : 49
+16. Label : Y | Jarak : 44
+17. Label : Y | Jarak : 49
+18. Label : Y | Jarak : 51
+19. Label : Y | Jarak : 53
+20. Label : Y | Jarak : 57
+
+HASIL SORTING
+1. Label : X | Jarak : 35
+2. Label : X | Jarak : 39
+3. Label : X | Jarak : 39
+4. Label : Y | Jarak : 39
+5. Label : X | Jarak : 43
+6. Label : Y | Jarak : 44
+7. Label : X | Jarak : 46
+8. Label : X | Jarak : 47
+9. Label : Y | Jarak : 48
+10. Label : X | Jarak : 49
+11. Label : Y | Jarak : 49
+12. Label : Y | Jarak : 49
+13. Label : Y | Jarak : 51
+14. Label : Y | Jarak : 53
+15. Label : Y | Jarak : 54
+16. Label : X | Jarak : 55
+17. Label : Y | Jarak : 55
+18. Label : Y | Jarak : 57
+19. Label : X | Jarak : 64
+20. Label : X | Jarak : 71
+-------------------------
+Data Testing : 1
+Nama File    : X_test (1).jpg
+Label Asli   : X
+Prediksi     : X
+Status       : BENAR
+=======================================
+
+=======================================
+MENGHITUNG JARAK..
+1. Label : X | Jarak : 46
+2. Label : X | Jarak : 50
+3. Label : X | Jarak : 57
+4. Label : X | Jarak : 58
+5. Label : X | Jarak : 42
+6. Label : X | Jarak : 44
+7. Label : X | Jarak : 63
+8. Label : X | Jarak : 46
+9. Label : X | Jarak : 34
+10. Label : X | Jarak : 56
+11. Label : Y | Jarak : 66
+12. Label : Y | Jarak : 52
+13. Label : Y | Jarak : 43
+14. Label : Y | Jarak : 45
+15. Label : Y | Jarak : 46
+16. Label : Y | Jarak : 57
+17. Label : Y | Jarak : 44
+18. Label : Y | Jarak : 42
+19. Label : Y | Jarak : 54
+20. Label : Y | Jarak : 50
+
+HASIL SORTING
+1. Label : X | Jarak : 34
+2. Label : X | Jarak : 42
+3. Label : Y | Jarak : 42
+4. Label : Y | Jarak : 43
+5. Label : X | Jarak : 44
+6. Label : Y | Jarak : 44
+7. Label : Y | Jarak : 45
+8. Label : X | Jarak : 46
+9. Label : X | Jarak : 46
+10. Label : Y | Jarak : 46
+11. Label : X | Jarak : 50
+12. Label : Y | Jarak : 50
+13. Label : Y | Jarak : 52
+14. Label : Y | Jarak : 54
+15. Label : X | Jarak : 56
+16. Label : X | Jarak : 57
+17. Label : Y | Jarak : 57
+18. Label : X | Jarak : 58
+19. Label : X | Jarak : 63
+20. Label : Y | Jarak : 66
+-------------------------
+Data Testing : 2
+Nama File    : X_test (2).jpg
+Label Asli   : X
+Prediksi     : X
+Status       : BENAR
+=======================================
+
+=======================================
+MENGHITUNG JARAK..
+1. Label : X | Jarak : 31
+2. Label : X | Jarak : 29
+3. Label : X | Jarak : 42
+4. Label : X | Jarak : 57
+5. Label : X | Jarak : 39
+6. Label : X | Jarak : 27
+7. Label : X | Jarak : 44
+8. Label : X | Jarak : 39
+9. Label : X | Jarak : 45
+10. Label : X | Jarak : 31
+11. Label : Y | Jarak : 35
+12. Label : Y | Jarak : 17
+13. Label : Y | Jarak : 32
+14. Label : Y | Jarak : 36
+15. Label : Y | Jarak : 31
+16. Label : Y | Jarak : 18
+17. Label : Y | Jarak : 31
+18. Label : Y | Jarak : 31
+19. Label : Y | Jarak : 37
+20. Label : Y | Jarak : 43
+
+HASIL SORTING
+1. Label : Y | Jarak : 17
+2. Label : Y | Jarak : 18
+3. Label : X | Jarak : 27
+4. Label : X | Jarak : 29
+5. Label : X | Jarak : 31
+6. Label : X | Jarak : 31
+7. Label : Y | Jarak : 31
+8. Label : Y | Jarak : 31
+9. Label : Y | Jarak : 31
+10. Label : Y | Jarak : 32
+11. Label : Y | Jarak : 35
+12. Label : Y | Jarak : 36
+13. Label : Y | Jarak : 37
+14. Label : X | Jarak : 39
+15. Label : X | Jarak : 39
+16. Label : X | Jarak : 42
+17. Label : Y | Jarak : 43
+18. Label : X | Jarak : 44
+19. Label : X | Jarak : 45
+20. Label : X | Jarak : 57
+-------------------------
+Data Testing : 3
+Nama File    : Y_test (1).jpg
+Label Asli   : Y
+Prediksi     : Y
+Status       : BENAR
+=======================================
+
+=======================================
+MENGHITUNG JARAK..
+1. Label : X | Jarak : 27
+2. Label : X | Jarak : 41
+3. Label : X | Jarak : 46
+4. Label : X | Jarak : 47
+5. Label : X | Jarak : 39
+6. Label : X | Jarak : 39
+7. Label : X | Jarak : 30
+8. Label : X | Jarak : 39
+9. Label : X | Jarak : 51
+10. Label : X | Jarak : 37
+11. Label : Y | Jarak : 43
+12. Label : Y | Jarak : 39
+13. Label : Y | Jarak : 36
+14. Label : Y | Jarak : 20
+15. Label : Y | Jarak : 31
+16. Label : Y | Jarak : 30
+17. Label : Y | Jarak : 31
+18. Label : Y | Jarak : 35
+19. Label : Y | Jarak : 23
+20. Label : Y | Jarak : 33
+
+HASIL SORTING
+1. Label : Y | Jarak : 20
+2. Label : Y | Jarak : 23
+3. Label : X | Jarak : 27
+4. Label : X | Jarak : 30
+5. Label : Y | Jarak : 30
+6. Label : Y | Jarak : 31
+7. Label : Y | Jarak : 31
+8. Label : Y | Jarak : 33
+9. Label : Y | Jarak : 35
+10. Label : Y | Jarak : 36
+11. Label : X | Jarak : 37
+12. Label : X | Jarak : 39
+13. Label : X | Jarak : 39
+14. Label : X | Jarak : 39
+15. Label : Y | Jarak : 39
+16. Label : X | Jarak : 41
+17. Label : Y | Jarak : 43
+18. Label : X | Jarak : 46
+19. Label : X | Jarak : 47
+20. Label : X | Jarak : 51
+-------------------------
+Data Testing : 4
+Nama File    : Y_test (2).jpg
+Label Asli   : Y
+Prediksi     : Y
+Status       : BENAR
+=======================================
+
+
+HASIL AKURASI
+Prediksi Benar : 4
+Akurasi : 100.0%
