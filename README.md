@@ -67,6 +67,6 @@ dataset/
 * **Pillow (PIL)** — membaca dan melakukan preprocessing gambar
 * **Jupyter Notebook** — Environment untuk eksekusi program
 
-# 📄 License
+## 📄 License
 
 This project was developed for educational purposes as part of a university final project.
